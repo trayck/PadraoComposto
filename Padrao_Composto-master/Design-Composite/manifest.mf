@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+
+
+<Ranlens Denck>
+<15/10/2020>
+<Design Pattern=Composite>
+
